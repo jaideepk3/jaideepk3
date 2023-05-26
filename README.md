@@ -2,7 +2,7 @@
 I am Jaideep, a fourth year student in the Electrical Engineering Department at IIT Bombay. I am interested in Machine Learning, Deep Learning and Computer Vision.
 
 # Some Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?uername=jaideepk3&theme=radical)
+[![Jaideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaideepk3)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jaideepk3/jaideepk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
