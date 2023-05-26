@@ -4,8 +4,9 @@ I am Jaideep, a fourth year student in the Electrical Engineering Department at 
 # Stats
 [![Jaideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaideepk3&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaideepk3&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaideepk3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jaideepk3/jaideepk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
