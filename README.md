@@ -1,5 +1,5 @@
 # Hi there 👋
-I am Jaideep, a fourth year student in the Electrical Engineering Department at IIT Bombay. I am interested in Machine Learning, Deep Learning and Computer Vision.
+I am Jaideep, a fourth year student in the Electrical Engineering Department at IIT Bombay. I am interested in Machine Learning, Deep Learning, Computer Vision and Computer Architecture.
 
 <!--
 # Stats
